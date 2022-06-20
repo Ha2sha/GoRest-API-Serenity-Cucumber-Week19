@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing the Users features on the GoRest application","Create a new user & verify if the user is added","SUCCESS","2022-06-20T23:25:36.479+01:00[Europe/London]","0.0","6.66"
+"Testing the Users features on the GoRest application","Updating the user created and verify it is updated with status 200","SUCCESS","2022-06-20T23:25:44.428+01:00[Europe/London]","0.0","0.89"
+"Testing the Users features on the GoRest application","Deleting the user created and verify it is deleted","SUCCESS","2022-06-20T23:25:45.389+01:00[Europe/London]","0.0","0.8"
